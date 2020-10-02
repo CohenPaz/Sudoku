@@ -1,0 +1,6 @@
+Sudoku game instructions:
+1. Game auto fills cells with a single option
+2. Choose an input for a cell.
+3. Game auto fills cells with a single option, based on your choice.
+4. Step 2
+5. A message of success or failure will show.
