@@ -1,6 +1,6 @@
 /*
  Paz Cohen
-/4/18
+13/4/18
  This code receives a sudoku board, finds the cell with minimum options, if there is one option, the board is automatically updated.
  If there is no cell with 1 option, it asks the player what number he wishes to update the cell.
  If the boards is completed, a message will appear, if there were wrong choices, the code will detect and update the user for duplications.
